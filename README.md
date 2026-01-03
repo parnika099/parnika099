@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="BELIEVE%20IN%20YOURSELF.png" alt="Believe in Yourself — Parnika Patil" width="100%" />
+  <img src="believe-in-yourself.jpg" alt="Believe in Yourself — Parnika Patil" width="100%" />
 </div>
 
 ---
@@ -62,8 +62,8 @@ Beyond building products, I build **ecosystems**:
 ## Connect 🔗
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/parnika-patil-8151862a7/" target="_blank" rel="noopener noreferrer" title="LinkedIn">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="36" height="36" />
+  <a href="https://www.linkedin.com/in/parnika-patil-8151862a7/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
